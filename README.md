@@ -9,13 +9,15 @@ Common Features:
 1. User authentication - (email otp verification)
 2. Browse there profile
 3. Give feedback 
+4. Submit Idea
 
 ### Student
 
 1. Create teams (reach out to others with desired tech stack)
 2. Hackathon registration
 3. Contact volunteers via chat
-4. Idea submission 
+4. Submit there idea solution (ppt+ video link prototype link)
+5. Submit the prototype or full woriking project (github repo, demo video link, project workig link)
 
 ### College
 
@@ -27,7 +29,6 @@ Common Features:
 
 1. Approve or deny sponsorship requests from colleges
 2. Suggest budget to any collage which is actively organize hackathon.
-
 ### Volunteer
 
 1. Answer questions from students (hackathon participants)
