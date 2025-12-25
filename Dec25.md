@@ -3,6 +3,7 @@
  - env setup done 
  - cors setup 
  - middleware express.json express.urlencoded and express.static (for files in server)
+ - logger are done (morgan + winston) now you can use (logger.info or logger.warn/error as per requirements) need not to use console.log
 
 
 
