@@ -24,14 +24,31 @@ Common Features:
 1. Add volunteers
 2. Browse companies and request sponsorship
 3. Organize a hackathon ( give details, overview and timeline )
+4. New Landing page for each collage
+  - For Overview of the collage and time line
+  - For organizing hackathon
+  - Manage Stuff like - changing the platform setting 
 
 ### Company
 
 1. Approve or deny sponsorship requests from colleges
 2. Suggest budget to any collage which is actively organize hackathon.
+
+
 ### Volunteer
 
 1. Answer questions from students (hackathon participants)
+2. Edit hackathon details. 
+
+
+### Admin
+1. Manges collages and company
+2. Suspend/ Delete Collages or company
+3. View usages and billing
+4. Platform setting
+
+
+## Setting of the platform can be - 
 
 Hierarchy:
 
