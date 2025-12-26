@@ -1,21 +1,21 @@
 interface user {
-    _id: String,
-    name: String,
-    email: String,
-    profilePic:string,
-    role: String,// 'student' | 'admin' | 'company' | 'college' | 'volunteer'
-    // if student
-    collageName:String,
-    course: String,
-    techStack: object, // []
-    // if company
-    website:String,
-    overview:string,
+  _id: String,
+  name: String,
+  email: String,
+  profilePic: string,
+  role: String,// 'student' | 'admin' | 'company' | 'college' | 'volunteer'
+  // if student
+  collageName: String,
+  course: String,
+  techStack: object, // []
+  // if company
+  website: String,
+  overview: string,
 
-    // collage
-    location:string,
-    description:string,
-    password: String
+  // collage
+  location: string,
+  description: string,
+  password: String
 }
 
 import mongoose from "mongoose";
